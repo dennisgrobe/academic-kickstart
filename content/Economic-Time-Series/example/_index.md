@@ -1,13 +1,13 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Economic Time Series Theory
+summary: Learn the fundamentals of Economic Time Series Analysis
 weight: 1
 
 # Page metadata.
 title: Overview
 date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+lastmod: "2020-04-14T00:53:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
