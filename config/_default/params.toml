@@ -86,11 +86,11 @@ phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Schaffhauserstrasse", city = "Zürich", region = "Zürich", postcode = "8006", country = "Switzerland", country_code = "CH"}
+address = {street = "Florastrasse", city = "Zürich", region = "Zürich", postcode = "8008", country = "Switzerland", country_code = "CH"}
 #address = {street="Schaffhauserstrasse", postcode = "8006", city = "Zürich"],
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "47.387277", longitude = "8.536243"}
+coordinates = {latitude = "47.361316", longitude = "8.550935"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

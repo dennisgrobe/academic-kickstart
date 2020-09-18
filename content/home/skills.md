@@ -21,15 +21,35 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "100%" 
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Time Series Analysis"
+  description = "80%" 
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = "10%"
+  
+[[feature]]
+  icon = "file"
+  icon_pack = "fas"
+  name = "$\\LaTeX$"
+  description = "70%"
+  
+  [[feature]]
+  icon = "project-diagram"
+  icon_pack = "fas"
+  name = "Econometrics"
+  description = "80%"
+  
+  
 
 +++
