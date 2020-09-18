@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economic Time Series | DennisGrobe</title>
+    <link>/economic-time-series/</link>
+      <atom:link href="/economic-time-series/index.xml" rel="self" type="application/rss+xml" />
+    <description>Economic Time Series</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Dennis Grobe</copyright>
+    <image>
+      <url>/img/ppicture.jpg</url>
+      <title>Economic Time Series</title>
+      <link>/economic-time-series/</link>
+    </image>
+    
+  </channel>
+</rss>
