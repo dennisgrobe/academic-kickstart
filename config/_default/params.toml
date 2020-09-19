@@ -82,15 +82,15 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "dennis.grobe@shinternet.ch"
-phone = "888 888 88 88"
+phone = "+41 79 195 24 80"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Florastrasse", city = "Zürich", region = "Zürich", postcode = "8008", country = "Switzerland", country_code = "CH"}
+address = {street = "Florastrasse 16", city = "Zürich", region = "Zürich", postcode = "8008", country = "Switzerland", country_code = "CH"}
 #address = {street="Schaffhauserstrasse", postcode = "8006", city = "Zürich"],
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "47.361316", longitude = "8.550935"}
+coordinates = {latitude = "47.360845", longitude = "8.549247"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

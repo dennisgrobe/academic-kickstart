@@ -18,37 +18,37 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%" 
+  description = "" 
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Time Series Analysis"
-  description = "80%" 
+  description = "" 
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "10%"
+  description = ""
   
 [[feature]]
   icon = "file"
   icon_pack = "fas"
   name = "$\\LaTeX$"
-  description = "70%"
+  description = ""
   
   [[feature]]
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Econometrics"
-  description = "80%"
+  description = ""
   
   
 
