@@ -73,7 +73,6 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   publication_type = "publication_types"
   author = "authors"
 
-<<<<<<< HEAD
 # Related content.
 [related]
   threshold = 80.0
@@ -102,5 +101,3 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
-=======
->>>>>>> parent of 5cfc414 (update)
